@@ -1,6 +1,6 @@
-# primary_project
+# Gerador de Frases
 
-A new Flutter project.
+Relembrando alguns comandos e códigos.
 
 ## Getting Started
 
